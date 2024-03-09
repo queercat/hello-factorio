@@ -44,7 +44,7 @@ data:extend({
         {
             sheet =
             {
-                filename = "__base__/graphics/entity/stone/stone.png",
+                filename = "__mayos-plushables__/graphics/entity/stone.png",
                 priority = "extra-high",
                 width = 64,
                 height = 64,
