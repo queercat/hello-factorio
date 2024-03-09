@@ -1,8 +1,8 @@
 {
-    "name": "hello-factorio",
-    "version": "0.0.1",
-    "title": "untitled factorio mod",
-    "author": "May Tusek",
-    "factorio_version": "1.1",
-    "dependencies": ["base >= 1.1"]
+  "name": "mayos-plushables",
+  "version": "0.0.1",
+  "title": "Mayo's Plushables",
+  "author": "May Tusek",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"]
 }

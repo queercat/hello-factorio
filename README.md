@@ -1,2 +1,3 @@
-# hello-factorio
+# mayos-plushables
+
 baby's first factorio mod
