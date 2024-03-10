@@ -8,6 +8,7 @@ pony pony pony pony
 - fix ratios.
 - make less complicated?
 - add graphics.
+- add all locale data.
 
 # ideas:
 
