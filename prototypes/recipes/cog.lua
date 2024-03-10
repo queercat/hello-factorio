@@ -1,4 +1,4 @@
-local recipe = {
+data:extend({
     {
         type = "recipe",
         name = "coke-oven-gas",
@@ -19,10 +19,4 @@ local recipe = {
             primary = { r = 0.000, g = 0.000, b = 0.000, a = 1.000 },
         }
     },
-}
-
-print(recipe)
-
-data:extend(recipe)
-
-print("extended")
+})
