@@ -9,7 +9,7 @@ data:extend({
         {
             { type = "fluid", name = "coke-oven-gas", amount = 50 },
             { type = "fluid", name = "water",         amount = 100 },
-            { type = "item",  name = "copper-plate",  amount = 10 }
+            { type = "item",  name = "copper-plate",  amount = 1 }
         },
         results =
         {

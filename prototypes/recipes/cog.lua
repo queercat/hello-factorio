@@ -7,7 +7,7 @@ data:extend({
         enabled = false,
         ingredients =
         {
-            { type = "item", name = "coal", amount = 1 }
+            { type = "item", name = "coke", amount = 1 }
         },
         results =
         {
